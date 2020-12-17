@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73b5ae25-6867-4eaf-8608-7c35d8726b2c" name="Default Changelist" comment="" />
+    <list default="true" id="73b5ae25-6867-4eaf-8608-7c35d8726b2c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +23,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../telegrambot" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -40,7 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607679583844</updated>
       <workItem from="1607679588891" duration="8576000" />
-      <workItem from="1607748100944" duration="886000" />
+      <workItem from="1607748100944" duration="2112000" />
     </task>
     <servers />
   </component>
@@ -48,6 +50,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1607770093902">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.-546.1280.984@0.0.1366.728" timestamp="1607770093902" />
     <state x="517" y="287" key="NewPhpFileDialog" timestamp="1607696185316">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
