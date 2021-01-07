@@ -1,0 +1,1 @@
+<img src="v/img/cat.jpg" width="500">
