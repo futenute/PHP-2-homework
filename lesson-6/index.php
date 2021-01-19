@@ -13,7 +13,7 @@ spl_autoload_register(function ($classname){
 //site.ru/index.php?act=auth&c=User
 
 $action = 'action_';
-$action .=(isset($_GET['act'])) ? $_GET['act'] : 'auth';
+$action .=(isset($_GET['act'])) ? $_GET['act'] : 'catalog';
 
 switch ($_GET['c'])
 {
@@ -26,8 +26,11 @@ switch ($_GET['c'])
     case 'user':
         $controller = new UserC();
         break;
+    case 'admin':
+        $controller = new AdminC();
+        break;
     default:
-        $controller = new UserC();
+        $controller = new GoodsC();
 }
 
 $controller->Request($action);

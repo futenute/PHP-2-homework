@@ -14,7 +14,7 @@
         <li class="menu-list"><a href="#" class="menu-link">Отзывы</a></li>
         <li class="menu-list"><a href="index.php?c=cart&act=cart" class="menu-link">Корзина</a></li>
         <?php if($_SESSION['role'] == 1): ?>
-            <li class="menu-list"><a href="#" class="menu-link">Админка</a></li>
+            <li class="menu-list"><a href="index.php?c=admin&act=admin" class="menu-link">Админка</a></li>
             <li class="menu-list"><a href="#" class="menu-link">Заказы</a></li>
         <?php elseif ($_SESSION['role'] === '0'): ?>
             <li class="menu-list"><a href="index.php?c=user&act=private" class="menu-link">Личный кабинет</a></li>
